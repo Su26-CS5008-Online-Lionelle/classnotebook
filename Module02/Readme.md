@@ -6,7 +6,7 @@
 - [x] I am very confused about what is supposed to be completed by when, and where is the source of truth for what we are      
       supposed to be working on. Could you please explain?
 - [x] Can you explain the conversion of arrays to pointers when passed into functions?
-- [ ] What does a struct look like in memory? In StructPractice.c (as an example), would &person1 be the same as &person1.name?
+- [x] What does a struct look like in memory? In StructPractice.c (as an example), would &person1 be the same as &person1.name?
 
 
 ## Class Structure
